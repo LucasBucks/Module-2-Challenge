@@ -12,7 +12,8 @@ import questionary
 import csv
 
 from pathlib import Path
-
+#added save_csv to this "from" since the file path already existed.  DRY is important here.  we created
+#the save_csv function under the fileio.py file
 from qualifier.utils.fileio import (load_csv, save_csv)
 
 from qualifier.utils.calculators import (
