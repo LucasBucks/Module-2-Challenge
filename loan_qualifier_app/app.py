@@ -113,7 +113,11 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    
+    if len(qualifying_loans) == 0:
+        sys.exit("Please review your life decisions and come back at a later time.")
+        #prompt user for CSV path (Variable), next step is save_csv file (qualifying loans, csvpath)
+
+
 
 
 
