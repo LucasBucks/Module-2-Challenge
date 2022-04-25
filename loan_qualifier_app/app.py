@@ -114,22 +114,26 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
+    
     if len(qualifying_loans) == 0:
         sys.exit("Please review your life decisions and come back at a later time.")
-        #prompt user for CSV path (Variable), next step is save_csv file (qualifying loans, csvpath)
+    #    #prompt user for CSV path (Variable), next step is save_csv file (qualifying loans, csvpath)
     else:
-         answer = questionary.confirm("Would you like to save the results?").ask()
-    #elif: 
-        #save_csv - questionary = no
-        #sys.exit("Thank you for having your life together! Enjoy your day!")
-   # elif: 
+        answer = questionary.text("Would you like to save the results?").ask().lower()
+        if answer == 'yes':
+            file_name = questionary.text("Where would you like to save the csv file?").ask()
+            file_name = str(file_name) + ".csv"
+            header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
+            with open(file_name, 'w', newline='') as csvfile:
+                csvwriter = csv.writer(csvfile)
 
+                csvwriter.writerow(header)
 
-
-    
-        
-
-
+                for row in qualifying_loans:
+                    csvwriter.writerow(row)
+            sys.exit("Your filed has saved!")
+        else:
+            print("Thank you for applying")
 
 
 
