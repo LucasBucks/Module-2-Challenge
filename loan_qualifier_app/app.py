@@ -119,10 +119,16 @@ def save_qualifying_loans(qualifying_loans):
         sys.exit("Please review your life decisions and come back at a later time.")
     #    #prompt user for CSV path (Variable), next step is save_csv file (qualifying loans, csvpath)
     else:
+        #utilized the .text vs .confirm and added .lower().  .lower()was added so the answer was not case sensitive
+        
         answer = questionary.text("Would you like to save the results?").ask().lower()
         if answer == 'yes':
+            #created variable - file_name and then a str(file_name) underneath it in order to continue the answer
+            #and allow for it to be saved as a csv file
             file_name = questionary.text("Where would you like to save the csv file?").ask()
             file_name = str(file_name) + ".csv"
+            #copy pasted the save_csv function for fileio.py.  Then changed out csvpath with file_name. had to delete .values
+            # under the for row in qualifying loans after row.   
             header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
             with open(file_name, 'w', newline='') as csvfile:
                 csvwriter = csv.writer(csvfile)
