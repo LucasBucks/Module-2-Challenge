@@ -1,0 +1,796 @@
+   50  jupyter lab
+   51  conda deactivate
+   52  conda activate dev
+   53  jupyter lab
+   54  cconda deactivate
+   55  conda deactivate
+   56  ls -al ~/.ssh
+   57  ssh -Tgit@github.com
+   58  ssh -tgit@github
+   59  ls -al ~/.ssh
+   60  ls -al ~/.ssh
+   61  ssh -T git@github.com
+   62  conda -n dev python=3.7 anaconda
+   63  conda create -n pytheon=3.7 anaconda
+   64  conda activate python
+   65  conda activate dev
+   66  echo ${shell}
+   67  echo ${Shell}
+   68  conda deactivate
+   69  conda activate pytheon=3.7
+   70  echo ${shell}
+   71  conda deactivate
+   72  conda activate
+   73  conda activate dev
+   74  cona init zsh
+   75  conda init zsh
+   76  echo $shell
+   77  conda --version
+   78  conda update conda
+   79  conda create -n dev python=3.7 anaconda
+   80  pwd
+   81  ls
+   82  cd desktop
+   83  pwd
+   84  ls
+   85  mkdir
+   86  mkdir FinTech-Workspace
+   87  ls
+   88  cd
+   89  cd FinTech-Workspace
+   90  ls
+   91  pwd
+   92  pwd
+   93  ls
+   94  cd FinTech-Workspace
+   95  cd Desktop
+   96  ls
+   97  cd FinTech-Workspace
+   98  cd ..
+   99  cd~
+  100  pwd
+  101  ls
+  102  cd Desktop
+  103  cd ..
+  104  ls
+  105  cd ~
+  106  cd Desktop
+  107  cd ~
+  108  ls
+  109  cd FinTech-Workspace
+  110  ls
+  111  cd Desktop
+  112  Cd FinTech-Workspace
+  113  ls
+  114  cd FinTech-Workspace
+  115  ls
+  116  cd ~
+  117  ls
+  118  cd Desktop
+  119  ls
+  120  cd FinTech-Workspace
+  121  ls
+  122  cd Python_Project
+  123  ls
+  124  conda activate dev
+  125  conda --version
+  126  python --version
+  127  code .
+  128  python hello_python.py
+  129  conda deactivate
+  130  cd ~
+  131  cd desktop
+  132  ls
+  133  cd FinTech-Workspace
+  134  ls
+  135  cd Python_Project
+  136  ls
+  137  conda activate dev
+  138  python hello_python.py
+  139  conda deactivate
+  140  cd~
+  141  cd ~
+  142  ls
+  143  cd desktop
+  144  ls
+  145  ls
+  146  cd FinTech-Workspace
+  147  ls
+  148  cd Python_Project
+  149  ls
+  150  conda activate dev
+  151  python hello_python.py
+  152  conda deactivate
+  153  cd~
+  154  cd ~
+  155  s
+  156  ls
+  157  cd Desktop
+  158  ls
+  159  cd FinTech-Workspace
+  160  ls
+  161  cd Python_Project
+  162  ls
+  163  conda activate dev
+  164  code .
+  165  code .
+  166  ls
+  167  cd Desktop
+  168  ls
+  169  cd FinTech-Workspace
+  170  ls
+  171  cd Python_Project
+  172  ls
+  173  conda activate dev
+  174  M1L3.py
+  175  print M1L3.py
+  176  python M1L3.py
+  177  conda deactivate
+  178  cd ~
+  179  ls
+  180  cd Destkop
+  181  cd Desktop
+  182  ls
+  183  cd FinTech-Workspace
+  184  ls
+  185  cd Python_Project
+  186  ls
+  187  conda activate dev
+  188  python MIL3.py
+  189  python M1L3.py
+  190  conda deactivate
+  191  cd ~
+  192  ls
+  193  cd Desktop
+  194  ls
+  195  cd FinTech-Workspace
+  196  ls
+  197  cd >>
+  198  cd ..
+  199  cd ..
+  200  ls
+  201  Desktop
+  202  cd Desktop
+  203  ls
+  204  cd 01_Hello_Variable_World
+  205  ls
+  206  cd Unsolved
+  207  ls
+  208  conda activate dev
+  209  python hello_variable_world.py
+  210  python hello_variable_world.py
+  211  python hello_variable_world.py
+  212  print original price
+  213  print original price
+  214  python hello_variable_world.py
+  215  python hello_varialbe_world.py
+  216  ls
+  217  cd Desktop
+  218  ls
+  219  cd FinTech-Workspace
+  220  ls
+  221  ls
+  222  cd Python_Project
+  223  ls
+  224  ls
+  225  conda activate dev
+  226  python hello_varialbe_world.py
+  227  python hellw_variable_world.py
+  228  ls
+  229  conda deactivate
+  230  ls
+  231  cd Desktop
+  232  ls
+  233  cd FinTech-Workspace
+  234  ls
+  235  cd Python_Project
+  236  ls
+  237  conda activate dev
+  238  python hello_variable_world.py
+  239  source /Users/jameswillis/opt/anaconda3/bin/activate
+  240  /Users/jameswillis/opt/anaconda3/bin/python /Users/jameswillis/Desktop/FinTech-Workspace/Python_Project/hello_variable_world.py
+  241  /Users/jameswillis/opt/anaconda3/bin/python /Users/jameswillis/Desktop/FinTech-Workspace/Python_Project/hello_variable_world.py
+  242  /Users/jameswillis/opt/anaconda3/bin/python /Users/jameswillis/Desktop/FinTech-Workspace/Python_Project/hello_variable_world.py
+  243  /Users/jameswillis/opt/anaconda3/bin/python /Users/jameswillis/Desktop/FinTech-Workspace/Python_Project/hello_variable_world.py
+  244  source /Users/jameswillis/opt/anaconda3/bin/activate
+  245  pwd
+  246  ls
+  247  cd Desktop
+  248  ls
+  249  cd FinTech-Workspace
+  250  ls
+  251  cd Python_Project
+  252  ls
+  253  conda activate dev
+  254  python M1L3.py
+  255  pyton M1L3.py
+  256  python M1L3.py
+  257  python M1L3.py
+  258  python M1L3.py
+  259  python M1L3.py
+  260  python M1L3.py
+  261  python M1L3.py
+  262  conda deactivate
+  263  pwd
+  264  ls
+  265  conda activate dev
+  266  ls
+  267  python listing_assets.py
+  268  conda deactivate
+  269  python
+  270  jupyter
+  271  conda activate dev
+  272  jupyter lab
+  273  conda activate dev
+  274  jupyter labs
+  275  jupyter_labs
+  276  jupyter
+  277  pwd
+  278  ls
+  279  cd desktop
+  280  ls
+  281  cd FinTech-Workspace
+  282  ls
+  283  ls
+  284  jupyter lab
+  285  ls
+  286  python hello_python.py
+  287  python M1L3.py
+  288  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  289  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  290  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  291  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  292  conda activate dev
+  293  python calculator.py
+  294  python app.py
+  295  pwd
+  296  cd
+  297  ls
+  298  cd Desktop
+  299  ls
+  300  cd FinTech_Workspace
+  301  ls
+  302  cd 02_Laon_Qualifier_Filtering_Data
+  303  cd 02_Loan_Qualifier_Filtering_Data
+  304  ls
+  305  python app.py
+  306  ls
+  307  cd Solved
+  308  ls
+  309  python app.py
+  310  cd..
+  311  cd ..
+  312  cd ..
+  313  cd ..
+  314  ls
+  315  cd Challenge File
+  316  ls
+  317  cd Challenge File
+  318  ls
+  319  cd ~
+  320  ls
+  321  cd Desktop
+  322  ls
+  323  cd Challenge File
+  324  cd Challenge File
+  325  cd FinTech_Workspace
+  326  ls
+  327  cd ..
+  328  cd Modular Programming
+  329  cd Challenge_File
+  330  cd Challenge File
+  331  ls
+  332  Cd Challenge File
+  333  cd FinTech_Workspace
+  334  ls
+  335  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech_Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  336  /usr/local/bin/python3 "/Users/jameswillis/Desktop/Challenge File/Starter_Code/loan_analyzer.py"
+  337  ls
+  338  cd ~
+  339  ls
+  340  cd Desktop
+  341  ls
+  342  cd Modular Programming
+  343  cd Programming
+  344  cd Modular_programming
+  345  ls
+  346  cd Fantasy Football
+  347  cd FinTech_Workspace
+  348  cd ..
+  349  cd test
+  350  ls
+  351  cd ..
+  352  cd github_Workspace
+  353  /usr/local/bin/python3 "/Users/jameswillis/Desktop/Modular Programming/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  354  /usr/local/bin/python3 "/Users/jameswillis/Desktop/Modular Programming/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  355  ls
+  356  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  357  ls
+  358  cd Solved
+  359  ls
+  360  conda activate dev
+  361  python app.py
+  362  /usr/local/bin/python3 "/Users/jameswillis/Desktop/Challenge File/Starter_Code/loan_analyzer.py"
+  363  /usr/local/bin/python3 "/Users/jameswillis/Desktop/Challenge File/Starter_Code/loan_analyzer.py"
+  364  conda activate python
+  365  ls
+  366  cd Starter_Code
+  367  ls
+  368  conda activate python
+  369  conda activate dev
+  370  python loan_analyzer.py
+  371  ls
+  372  ls
+  373  cd Starter_Code
+  374  ls
+  375  conda activate dev
+  376  python loan_analyzer.py
+  377  python loan_analyzer.py
+  378  pwd
+  379  ls
+  380  cd Desktop
+  381  ls
+  382  cd Challenge File
+  383  ls
+  384  cd Challenge File
+  385  cd test
+  386  ls
+  387  cd ..
+  388  cd Challenge%20File
+  389  cd "Challenge File"
+  390  ls
+  391  cd ..
+  392  cd Challenge_File
+  393  ls
+  394  conda activate dev
+  395  atmdev
+  396  conda atmdev
+  397  conda activate atmdev
+  398  conda deactivate
+  399  conda activate dev
+  400  s
+  401  ls
+  402  cd ..
+  403  ls
+  404  touch fintech-file.txt
+  405  ls
+  406  rm fintech-flie.txt
+  407  ls
+  408  rm fintech-file.txt
+  409  pip install fire
+  410  python cli.py
+  411  ls
+  412  cd FinTech_Workspace
+  413  ls
+  414  cd cli.py
+  415  cd Python_Project
+  416  ls
+  417  python cli.py
+  418  python cli.py
+  419  ls
+  420  cd cli.py
+  421  ls
+  422  python cli.py
+  423  python fire.py
+  424  cd ..
+  425  python cli.py
+  426  com.Apple.Terminal.plist
+  427  exit
+  428  /usr/local/bin/python3 Untitled-1
+  429  pwd
+  430  ls
+  431  cd Desktop
+  432  ls
+  433  cd FinTech_Workspace
+  434  ls
+  435  cd Python_Project
+  436  ls
+  437  conda activate dev
+  438  pip install fire
+  439  conda activate dev
+  440  pip show  fire
+  441  ls
+  442  cd Unsolved
+  443  ls
+  444  python app.py
+  445  python app.py
+  446  pyton app.py --credit_score=750
+  447  pytoh app.py
+  448  python app.py
+  449  python app.py --credit_score=750
+  450  python app.py
+  451  python app.py --credit_score=450
+  452  python app.py
+  453  python app.py --credit_score=450
+  454  python app.py --credit_score=750 --debt=3000 --income=5000
+  455  python app.py --credit_score=750 --debt=3000 --income=5000
+  456  conda activate dev
+  457  ls
+  458  cd Solved
+  459  python. py
+  460  python app.py
+  461  python app.py --credit_score=600 ---debt=5000 --income=45000
+  462  pip install c ~
+  463  cd ~
+  464  pip install questionary
+  465  conda activate dev
+  466  ls
+  467  cd Python_Project
+  468  ls
+  469  python dialog.py
+  470  cd dialog.py
+  471  python dialon.py
+  472  python dialog.py
+  473  ls
+  474  exit
+  475  cd Desktop
+  476  ls
+  477  cd FinTech_Workspace
+  478  ls
+  479  cd Python_Projeckt
+  480  cd Python_Project
+  481  ls
+  482  conda activate dev
+  483  python dialog.py
+  484  python dialog.py
+  485  python dialog.py
+  486  python dialog.py
+  487  exit
+  488  source /Users/jameswillis/opt/anaconda3/bin/activate
+  489  conda activate dev
+  490  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/FinTech_Workspace/Python_Project/dialog.py
+  491  /usr/local/bin/python3 /Users/jameswillis/Desktop/FinTech_Workspace/Python_Project/dialog.py
+  492  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/FinTech_Workspace/Python_Project/dialog.py
+  493  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/FinTech_Workspace/Python_Project/dialog.py
+  494  ls
+  495  cd Desktop
+  496  ls
+  497  cd 02_Adding_questionary_to_Loan_Qualifier
+  498  ls
+  499  cd Unsolved
+  500  ls
+  501  conda activate dev
+  502  pwd
+  503  ls
+  504  cd Desktop
+  505  ls
+  506  cd 02_Adding_questionary_to_Loan_Qaulifier
+  507  cd 02_Adding_questionary_to_Loan_Qualifier
+  508  ls
+  509  cd Unsolved
+  510  ls
+  511  python app.py --credit_score=750 --debt=5000 --income=20000
+  512  cd ..
+  513  ls
+  514  cd Solved
+  515  python app.py --credit_score=750 --debt=5000 --income=20000
+  516  pip fire
+  517  conda activate dev
+  518  python app.py --credit_score=750 --debt=5000 --income=20000
+  519  exit
+  520  ls
+  521  cd Desktop
+  522  ls
+  523  cd 02_Adding_questionary_to_Loan_Qualifier
+  524  ls
+  525  cd Unsolved
+  526  ls
+  527  conda activate dev
+  528  python app.py --credit_score=750 --debt=5000 --income=20000
+  529  cd ..
+  530  cd Solved
+  531  python app.py --credit_score=750 --debt=5000 --income=20000
+  532  cd ..
+  533  cd Unsolved
+  534  python app.py --credit_score=750 --debt=5000 --income=20000
+  535  Traceback (most recent call last):\n  File "app.py", line 105, in <module>\n    fire.Fire(run)\n  File "/Users/jameswillis/opt/anaconda3/envs/dev/lib/python3.7/site-packages/fire/core.py", line 141, in Fire\n    component_trace = _Fire(component, args, parsed_flag_args, context, name)\n  File "/Users/jameswillis/opt/anaconda3/envs/dev/lib/python3.7/site-packages/fire/core.py", line 471, in _Fire\n    target=component.__name__)\n  File "/Users/jameswillis/opt/anaconda3/envs/dev/lib/python3.7/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace\n    component = fn(*varargs, **kwargs)\n  File "app.py", line 86, in run\n    bank_data = load_bank_data()\n  File "app.py", line 24, in load_bank_data\n    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()\nNameError: name 'questionary' is not define
+  536  python app.py --credit_score=750 --debt=5000 --income=20000
+  537  python app.py
+  538  exit
+  539  cd Desktop
+  540  ls
+  541  cd 02_Adding_questionary_to_Loan_Qualifier
+  542  ls
+  543  cd Unsolved
+  544  conda activate dev
+  545  python app.py
+  546  python apppy --help
+  547  python app.py
+  548  exit
+  549  source /Users/jameswillis/opt/anaconda3/bin/activate
+  550  conda activate dev
+  551  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  552  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py
+  553  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  554  git config --global user.name James Willis
+  555  conda activate dev
+  556  git config --global user.name James Willis
+  557  git config --global user.email willis.197@gmail.com
+  558  git confi --list
+  559  xcode-select --install
+  560  xcode-select --install
+  561  ls
+  562  cd Desktop
+  563  git clone https://github.com/LucasBucks/Module_2.4_Repository-.git
+  564  exit
+  565  git config --global user.name James Willis
+  566  git config --global user.email willis.197@gmail.com
+  567  git config --list
+  568  git clone https://github.com/LucasBucks/Module_2.4_Repository-.git
+  569  ls
+  570  cd Desktop
+  571  git clone https://github.com/LucasBucks/Module_2.4_Repository-.git
+  572  cd Module_2.4_Repository-
+  573  ls
+  574  git status
+  575  git add README.md
+  576  git status
+  577  git status
+  578  git add README.md
+  579  git status
+  580  touch new_file.txt
+  581  ls
+  582  git status
+  583  git add new_file.txt
+  584  git status
+  585  git commit -m "edited README and added new file"
+  586  git status
+  587  git push
+  588  git push
+  589  git push
+  590  exit
+  591  ls
+  592  cd Desktop
+  593  ls
+  594  git clone https://github.com/LucasBucks/Module_2.4.5..git
+  595  exit
+  596  exit
+  597  conda activate dev
+  598  pip install -r requirements.txt
+  599  ls
+  600  cd Desktop
+  601  ls
+  602  cd FinTech_Workspace
+  603  ls
+  604  cd Module_2_Class_2_Activities
+  605  ls
+  606  cd 01_Ins_ATM_Application
+  607  ls
+  608  cd Unsolved
+  609  ls
+  610  python atm.py
+  611  python atm
+  612  cd ..
+  613  ls
+  614  python atm.py
+  615  cd ..
+  616  ls
+  617  cd 01_Ins_ATM_Application\t
+  618  ls
+  619  cd Unsolved
+  620  ls
+  621  cd atm
+  622  ls
+  623  phthon atm.py
+  624  python atm.py
+  625  ls
+  626  cd ..
+  627  ls
+  628  cd ..
+  629  ls
+  630  cd ..
+  631  ls
+  632  cd 02_Stu_Build_ATM_Functions
+  633  ls
+  634  cd Unsolved
+  635  ls
+  636  cd atm
+  637  ls
+  638  pip install -r requirements.txt
+  639  ```code\n\nconda create-n atmdev python=3.7 anaconda\n```
+  640  conda atmdev
+  641  ```code\nconda create -n atmdev python=3.7 anaconda\n```
+  642  code .
+  643  python
+  644  ls
+  645  cd Desktop
+  646  ls
+  647  cd FinTech_Workspace
+  648  ls
+  649  cd Module_2_Class_2_Activities
+  650  ls
+  651  cd 02_Stu_Build_ATM_Functions
+  652  ls
+  653  cd Unsolved
+  654  ls
+  655  cd atm
+  656  conda activate dev
+  657  ````code
+  658  ```code\n    conda create -n atmdev python=3.7 anaconda\n    ```
+  659  source /Users/jameswillis/opt/anaconda3/bin/activate
+  660  conda activate dev
+  661  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/FinTech_Workspace/Module_2_Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  662  pip install -r requirements.txt
+  663  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/FinTech_Workspace/Module_2_Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  664  /usr/bin/python3 /Users/jameswillis/Desktop/FinTech_Workspace/Module_2_Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py
+  665  conda activate dev
+  666  ```code\npip install -r requirements.txt\n```
+  667  pip install -r requirments.txt
+  668  conda activate dev
+  669  conda activate
+  670  conda activate dev
+  671  ls
+  672  cd Desktop
+  673  ls
+  674  cd FinTech_Workspace
+  675  ls
+  676  cd Module_2_Class_2_Activities
+  677  ls
+  678  cd 02_Stu_Build_ATM_Functions
+  679  ls
+  680  cd Unsolved
+  681  ls
+  682  cd atm
+  683  ls
+  684  exit
+  685  git commit
+  686  ls
+  687  cd Desktop
+  688  ls
+  689  ls
+  690  Module_2_CF
+  691  cd Module_2_CF
+  692  ls
+  693  git commit
+  694  git
+  695  git clone https://github.com/LucasBucks/Module_2_Challenge.git
+  696  conda activate dev
+  697  git status
+  698  ls
+  699  cd loan_qualifier_app
+  700  ls
+  701  git status
+  702  source /Users/jameswillis/opt/anaconda3/bin/activate
+  703  conda activate dev
+  704  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  705  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  706  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  707  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  708  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  709  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/loan_qualifier_app/app.py
+  710  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  711  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  712  conda activate dev
+  713  ls
+  714  git status
+  715  cd Module_2_Challenge
+  716  git status
+  717  git status
+  718  git add README.md
+  719  git status
+  720  git add README.md
+  721  git status
+  722  git add README.md
+  723  git add .
+  724  git status
+  725  git commit -m "created the save_csv function"
+  726  git push
+  727  git status
+  728  git status
+  729  git status
+  730  git status
+  731  ls
+  732  cd loan_qualifier_app
+  733  ls
+  734  git status
+  735  git status
+  736  git status
+  737  cd ..
+  738  ls
+  739  git status
+  740  git add .
+  741  git status
+  742  git commit -m "def test for fun"
+  743  git status
+  744  git pust
+  745  git push
+  746  git status
+  747  git add .
+  748  sit status
+  749  git status
+  750  git commit -m "Save after step 3 for module 2 - location of save_csv in app.py"
+  751  git status
+  752  git push
+  753  conda deactivate
+  754  exit
+  755  conda activate dev
+  756  exit
+  757  conda activate dev
+  758  source /Users/jameswillis/opt/anaconda3/bin/activate
+  759  conda activate dev
+  760  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  761  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  762  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  763  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  764  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  765  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  766  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  767  conda activate dev
+  768  ls
+  769  cd loan_qualifier_app
+  770  ls
+  771  git status
+  772  git add .
+  773  git status
+  774  git commit -m "start of section 4 of the challenge" 
+  775  git push
+  776  git status
+  777  git add .
+  778  git status
+  779  git commit -m "code completed for 2 out of 5 acceptance criteria"
+  780  git push
+  781  exit
+  782  conda activate dev
+  783  jupyter lab
+  784  conda activate dev
+  785  jupyter labs
+  786  jupyter lab
+  787  jupyter lab
+  788  conda activate dev
+  789  jupyter lab
+  790  conda activate dev
+  791  jupyter lab
+  792  conda activate dev
+  793  jupyter lab
+  794  conda activate dev
+  795  jupyter lab
+  796  conda activate dev
+  797  source /Users/jameswillis/opt/anaconda3/bin/activate
+  798  conda activate dev
+  799  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  800  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  801  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  802  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  803  /Users/jameswillis/opt/anaconda3/envs/dev/bin/python /Users/jameswillis/Desktop/Module_2_CF/Module_2_Challenge/loan_qualifier_app/app.py
+  804  conda activate dev
+  805  jupyter lab
+  806  conda activate dev
+  807  jupyter lab
+  808  conda activate dev
+  809  ls
+  810  cd Module_2_Challenge
+  811  ls
+  812  cd loan_qualifier_app
+  813  ls
+  814  history 50 > terminal_history.txt
+  815  git status
+  816  git add .
+  817  git status
+  818  git commit -m "Code is complete.  Need to finish README."
+  819  git push
+  820  git status
+  821  git add .
+  822  git status
+  823  git commit -m "Readme file almost complete"
+  824  git push
+  825  git status
+  826  git add .
+  827  git commit -m "Notes are entered and should be ready to submit"
+  828  git push
+  829  exit
+  830  conda activate dev
+  831  ls
+  832  cd Module_2_Challenge
+  833  ls
+  834  cd loan_qualifier_app
+  835  ls
+  836  cd ..
+  837  ls
+  838  cd ..
+  839  history 50 > terminal_history.txt
+  840  git status
+  841  git status
+  842  ls
+  843  cd Module_2_challenge
+  844  ls
+  845  git status
